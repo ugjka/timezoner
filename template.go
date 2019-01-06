@@ -8,6 +8,7 @@ var tmpl = `
 	<meta charset="utf-8">
 	<title>Timezoner</title>
 	<meta name="description" content="Get timezone information for a given location">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style>
 		body{
 			margin: 40px auto;

@@ -84,8 +84,8 @@ var tmpl = `
 	<hr>
 	<h3>About</h3>
 	<p>I'm Uģis and i mess around with Go in my free time</p>
-	<p>My github is <a href="https:/github.com/ugjka">here</a>
-	<p>Source code for this project <a href="https:/github.com/ugjka/timezoner">here</a>
+	<p>My github is <a href="https://github.com/ugjka">here</a>
+	<p>Source code for this project <a href="https://github.com/ugjka/timezoner">here</a>
 </body>
 </html>
 `
